@@ -1,0 +1,12 @@
+# Everything needed to run the notebook (superset of requirements.txt)
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
+altair
+openpyxl
+statsmodels
+matplotlib
+seaborn
+jupyter
