@@ -2,7 +2,7 @@
 
 Daily electricity-demand forecasting for the PJM West region: data cleaning, EDA, ARIMA vs SARIMA vs XGBoost comparison on a held-out year, and an interactive Streamlit app.
 
-**🔴 Live demo:** _add your Streamlit Cloud link here_
+**🔴 Live demo:** https://hourly-consumption-forecast-abtva8ingoigzns37dgvyk.streamlit.app/
 
 ## Business problem
 Grid operators need to anticipate demand to plan generation and avoid shortages or waste. Can we forecast daily electricity load accurately enough to be useful, and which model works best?
